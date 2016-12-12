@@ -91,7 +91,7 @@ StateFul Transformation (Windowed)
   </tr>
   </table>
 
-
+<p>Sometimes we need to know what happened in last n seconds every m seconds. As a simple example, lets say batch interval is 10 seconds and we need to know what happened in last 60 seconds every 30 seconds. Here 60 seconds is called window length and 30 second slide interval. Lets say first 6 batches are A,B,C,D,E,F which are part of first window. After 30 seconds second window will ve formed which will have D,E,F,G,H,I. As you can see 3 batches are common between first and second window.</p>
 
 
 
