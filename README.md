@@ -18,7 +18,7 @@ StateLess Transformation
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/StrApp1stBatch.PNG" alt="first batch" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/src/main/resources/StrApp1stBatch.PNG" alt="first batch" style="width:304px;height:228px;">
 </body>
 </html>
 
@@ -28,7 +28,7 @@ StateLess Transformation
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/StrApp1stBatchMaxVal.PNG" alt="max val 1st batch" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/src/main/resources/StrApp1stBatchMaxVal.PNG" alt="max val 1st batch" style="width:304px;height:228px;">
 </body>
 </html>
 
@@ -38,7 +38,7 @@ StateLess Transformation
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/StrApp2ndBatch.PNG" alt="2nd batch" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/src/main/resources/StrApp2ndBatch.PNG" alt="2nd batch" style="width:304px;height:228px;">
 </body>
 </html>
 
@@ -48,7 +48,7 @@ StateLess Transformation
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/StrApp2ndBatchMaxVal.PNG" alt="Max val 2nd batch" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/src/main/resources/StrApp2ndBatchMaxVal.PNG" alt="Max val 2nd batch" style="width:304px;height:228px;">
 </body>
 </html>
 
@@ -58,7 +58,7 @@ StateLess Transformation
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/StrApp3rdBatch.PNG" alt="3rd batch" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/src/main/resources/StrApp3rdBatch.PNG" alt="3rd batch" style="width:304px;height:228px;">
 </body>
 </html>
 
@@ -66,7 +66,7 @@ StateLess Transformation
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/StrApp3rdBatchMaxVal.PNG" alt="3rd batch max val" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/src/main/resources/StrApp3rdBatchMaxVal.PNG" alt="3rd batch max val" style="width:304px;height:228px;">
 </body>
 </html>
 
@@ -99,7 +99,7 @@ StateFul Transformation (Windowed)
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/WinTransInpMessages.PNG" alt="input window stateful" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/src/main/resources/WinTransInpMessages.PNG" alt="input window stateful" style="width:304px;height:228px;">
 </body>
 </html>
 
@@ -107,7 +107,7 @@ StateFul Transformation (Windowed)
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/WinTransFstBatchInterval.PNG" alt="window trans batch 1" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/src/main/resources/WinTransFstBatchInterval.PNG" alt="window trans batch 1" style="width:304px;height:228px;">
 </body>
 </html>
 
@@ -115,7 +115,7 @@ StateFul Transformation (Windowed)
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/WinTrans2ndBatch.PNG" alt="window trans batch 2" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/src/main/resources/WinTrans2ndBatch.PNG" alt="window trans batch 2" style="width:304px;height:228px;">
 </body>
 </html>
 
@@ -123,7 +123,7 @@ StateFul Transformation (Windowed)
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/MaxVal1stSlideDuration.PNG" alt="compute 1st slide" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/src/main/resources/MaxVal1stSlideDuration.PNG" alt="compute 1st slide" style="width:304px;height:228px;">
 </body>
 </html>
 
@@ -131,7 +131,7 @@ StateFul Transformation (Windowed)
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/WinTrans3rdBatch.PNG" alt="window trans batch 3" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/src/main/resources/WinTrans3rdBatch.PNG" alt="window trans batch 3" style="width:304px;height:228px;">
 </body>
 </html>
 
@@ -139,7 +139,7 @@ StateFul Transformation (Windowed)
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/WinTrans4thBatch.PNG" alt="window trans batch 4" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/src/main/resources/WinTrans4thBatch.PNG" alt="window trans batch 4" style="width:304px;height:228px;">
 </body>
 </html>
 
@@ -147,7 +147,7 @@ StateFul Transformation (Windowed)
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/MaxVal2ndSlide.PNG" alt="max val 2nd slide" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/src/main/resources/MaxVal2ndSlide.PNG" alt="max val 2nd slide" style="width:304px;height:228px;">
 </body>
 </html>
 
@@ -160,13 +160,13 @@ StateFul Transformation (UpdateStateByKey)
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/stateupdate_1.PNG" alt="update state image 1" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/src/main/resources/stateupdate_1.PNG" alt="update state image 1" style="width:304px;height:228px;">
 </body>
 </html>
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/stateupdate2.PNG" alt="update state image 1" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/src/main/resources/stateupdate2.PNG" alt="update state image 1" style="width:304px;height:228px;">
 </body>
 </html>
 
