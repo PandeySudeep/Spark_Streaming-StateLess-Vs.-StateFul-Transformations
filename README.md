@@ -81,7 +81,7 @@ StateFul Transformation (Windowed)
 
 <table style="width:100%">
   <tr>
-    <td>Batch Duration</td>
+    <td>Batch Interval</td>
   </tr>
   <tr>
     <td>Window Duration</td>
