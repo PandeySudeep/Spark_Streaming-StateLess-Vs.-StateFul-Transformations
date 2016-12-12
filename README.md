@@ -160,13 +160,13 @@ StateFul Transformation (UpdateStateByKey)
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/MaxVal2ndSlide.PNG" alt="max val 2nd slide" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/stateupdate_1.PNG" alt="update state image 1" style="width:304px;height:228px;">
 </body>
 </html>
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/MaxVal2ndSlide.PNG" alt="max val 2nd slide" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/stateupdate_1.PNG" alt="update state image 1" style="width:304px;height:228px;">
 </body>
 </html>
 
