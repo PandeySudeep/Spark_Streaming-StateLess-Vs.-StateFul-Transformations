@@ -103,7 +103,62 @@ StateFul Transformation (Windowed)
 </body>
 </html>
 
-*   **RDD during first 3000 milliseconds batch:**
+*   **RDD batch generated during Seconds (1,2 and 3):**
+
+<html>
+<body>
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/Inp_Msg_StreamingApplication.PNG" alt="input" style="width:304px;height:228px;">
+</body>
+</html>
+
+*   **RDD batch generated during Seconds (4,5 and 6):**
+
+<html>
+<body>
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/Inp_Msg_StreamingApplication.PNG" alt="input" style="width:304px;height:228px;">
+</body>
+</html>
+
+*   **Maximum Value calculated duration first slide duration (after 6 seconds):**
+
+<html>
+<body>
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/Inp_Msg_StreamingApplication.PNG" alt="input" style="width:304px;height:228px;">
+</body>
+</html>
+
+*   **RDD batch generated during Seconds (7,8 and 9):**
+
+<html>
+<body>
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/Inp_Msg_StreamingApplication.PNG" alt="input" style="width:304px;height:228px;">
+</body>
+</html>
+
+*   **RDD batch generated during Seconds (10,11 and 12):**
+
+<html>
+<body>
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/Inp_Msg_StreamingApplication.PNG" alt="input" style="width:304px;height:228px;">
+</body>
+</html>
+
+*   **Maximum Value computed during second sliding duration (covering RDDS of seconds 4,5,6,7,8,9,10,11 and 12):**
+
+<html>
+<body>
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/Inp_Msg_StreamingApplication.PNG" alt="input" style="width:304px;height:228px;">
+</body>
+</html>
+
+
+
+
+
+
+
+
+
 
 
 
