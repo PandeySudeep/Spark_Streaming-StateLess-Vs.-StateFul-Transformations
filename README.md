@@ -41,7 +41,7 @@ StateLess Transformation
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/Inp_Msg_StreamingApplication.PNG" alt="call signs" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/StrApp2ndBatchMaxVal.PNG" alt="Max val 2nd batch" style="width:304px;height:228px;">
 </body>
 </html>
 
