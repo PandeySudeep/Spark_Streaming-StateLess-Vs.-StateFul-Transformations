@@ -152,22 +152,9 @@ StateFul Transformation (Windowed)
 </html>
 
 
-
 StateFul Transformation (UpdateStateByKey)
 ------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p><b><i>updateStateByKey()</i></b> enables maintaining state across the batches in a DStream.</p>
 
 
 
