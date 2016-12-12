@@ -166,10 +166,8 @@ StateFul Transformation (UpdateStateByKey)
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/stateupdate_1.PNG" alt="update state image 1" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/stateupdate2.PNG" alt="update state image 1" style="width:304px;height:228px;">
 </body>
 </html>
 
-
-
-
+<p><b>Thank you all for passing by my project. This is my second Spark project. I will introduce more Spark projects covering topics like Spark SQL, Custom Partitioning, Custom Accumulators, Serialization, Machine Learning and more.</b></p>
