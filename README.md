@@ -12,3 +12,15 @@ StateLess Transformation
 <img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/Inp_Msg_StreamingApplication.PNG" alt="call signs" style="width:304px;height:228px;">
 </body>
 </html>
+
+*   **Streams:**
+
+<html>
+<body>
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/Inp_Msg_StreamingApplication.PNG" alt="call signs" style="width:304px;height:228px;">
+</body>
+</html>
+
+
+
+
