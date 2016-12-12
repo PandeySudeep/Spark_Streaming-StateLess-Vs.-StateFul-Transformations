@@ -155,6 +155,20 @@ StateFul Transformation (Windowed)
 StateFul Transformation (UpdateStateByKey)
 ------------------------------------------
 <p><b><i>updateStateByKey()</i></b> enables maintaining state across the batches in a DStream.</p>
+<p><b><i>UpdateStateByKey.java</i></b> consists of UpdateStateByKey streaming example. Input stream is the same as in preceding two experiments. The batch interval is set to be 5000 milliseconds. The event considered is the flow of 'odd' or 'even' integers. The state is represented by the total number of odd or even numbers at a particular time. Result is generated as key/value pair. Updates are across all batches continuously.</p>
+<p>Down below shows the states at two particular timestamps:</p>
+
+<html>
+<body>
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/MaxVal2ndSlide.PNG" alt="max val 2nd slide" style="width:304px;height:228px;">
+</body>
+</html>
+
+<html>
+<body>
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/MaxVal2ndSlide.PNG" alt="max val 2nd slide" style="width:304px;height:228px;">
+</body>
+</html>
 
 
 
