@@ -13,7 +13,47 @@ StateLess Transformation
 </body>
 </html>
 
-*   **Streams:**
+*   **RDD during first 3000 milliseconds batch:**
+
+<html>
+<body>
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/Inp_Msg_StreamingApplication.PNG" alt="call signs" style="width:304px;height:228px;">
+</body>
+</html>
+
+*   **Maximum Value of above batch:**
+
+<html>
+<body>
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/Inp_Msg_StreamingApplication.PNG" alt="call signs" style="width:304px;height:228px;">
+</body>
+</html>
+
+*   **RDD during second 3000 milliseconds batch:**
+
+<html>
+<body>
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/Inp_Msg_StreamingApplication.PNG" alt="call signs" style="width:304px;height:228px;">
+</body>
+</html>
+
+*   **Maximum Vaue of above batch:**
+
+<html>
+<body>
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/Inp_Msg_StreamingApplication.PNG" alt="call signs" style="width:304px;height:228px;">
+</body>
+</html>
+
+*   **RDD during third 3000 milliseconds batch:**
+
+<html>
+<body>
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/Inp_Msg_StreamingApplication.PNG" alt="call signs" style="width:304px;height:228px;">
+</body>
+</html>
+
+*   **Maximum Value of above batch:**
 
 <html>
 <body>
