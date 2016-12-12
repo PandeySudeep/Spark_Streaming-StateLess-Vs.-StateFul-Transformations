@@ -3,4 +3,4 @@
 
 StateLess Transformation
 ------------------------
-<p><font color="red"><b><i>socketTextStream</i></b></font> method of <b>JavaStreamingContext</b> will let open a port for input messages.<b><i>'StreamingLogInput.java'</i></b> holds application that streams stateless transformation of received messages. A batch of input messages (generated every 3000 milliseconds) transforms into RDD holding only those input messages that are integers. Further transformation generates final RDD that generates the maximum value. This transformation takes place on each new batches independent of previous batches.</p>
+<p><font color="red"><b><i>socketTextStream</i></b></font> method of <b>JavaStreamingContext</b> will let open a port for input messages.<b><i>'StreamingLogInput.java'</i></b> holds application that conducts series of stateless transformations on received messages. A batch of input messages (generated every 3000 milliseconds) transforms into RDD holding only integer inputs. Further transformation produces the maximum integer value. This transformation takes place on each new batches independent of previous batches.</p>
