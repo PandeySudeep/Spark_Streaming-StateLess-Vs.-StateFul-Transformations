@@ -131,7 +131,7 @@ StateFul Transformation (Windowed)
 
 <html>
 <body>
-<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/Inp_Msg_StreamingApplication.PNG" alt="input" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/WinTrans3rdBatch.PNG" alt="window trans batch 3" style="width:304px;height:228px;">
 </body>
 </html>
 
