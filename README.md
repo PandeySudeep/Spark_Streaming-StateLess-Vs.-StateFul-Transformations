@@ -3,4 +3,4 @@
 
 StateLess Transformation
 ------------------------
-<p><b>socketTextStream("localhost", 7777)</b> will let open port 7777 receive messages. <b><i>'StreamingLogInput.java'</i></b> holds application that streams stateless transformation of received messages. A batch of input messages (generated every 3000 milliseconds) transforms into RDD holding only those input messages that are integers. Further transformation generates final RDD that generates the maximum value. This transformation takes place on each new batches independent of previous batches.</p>
+<p><font color="blue"><b>socketTextStream(<i>parameters</i>)</b></font> will let open port 7777 receive messages. <b><i>'StreamingLogInput.java'</i></b> holds application that streams stateless transformation of received messages. A batch of input messages (generated every 3000 milliseconds) transforms into RDD holding only those input messages that are integers. Further transformation generates final RDD that generates the maximum value. This transformation takes place on each new batches independent of previous batches.</p>
