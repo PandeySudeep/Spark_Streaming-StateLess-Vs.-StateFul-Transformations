@@ -15,13 +15,16 @@ StateLess Transformation
 
 *   **RDD during first 3000 milliseconds batch:**
 
+
 <html>
 <body>
 <img src="https://github.com/PandeySudeep/Spark_Streaming-StateLess-Vs.-StateFul-Transformations/blob/master/StrApp1stBatch.PNG" alt="first batch" style="width:304px;height:228px;">
 </body>
 </html>
 
+
 *   **Maximum Value of above batch:**
+
 
 <html>
 <body>
@@ -29,7 +32,9 @@ StateLess Transformation
 </body>
 </html>
 
+
 *   **RDD during second 3000 milliseconds batch:**
+
 
 <html>
 <body>
@@ -37,7 +42,9 @@ StateLess Transformation
 </body>
 </html>
 
-*   **Maximum Vaue of above batch:**
+
+*   **Maximum Value of above batch:**
+
 
 <html>
 <body>
@@ -45,7 +52,9 @@ StateLess Transformation
 </body>
 </html>
 
+
 *   **RDD during third 3000 milliseconds batch:**
+
 
 <html>
 <body>
