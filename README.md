@@ -77,7 +77,7 @@ StateLess Transformation
 StateFul Transformation (Windowed)
 ----------------------------------
 <p>Stateful Transformations track data across time i.e. some data from previous batches is used to generate the results for a new batch. Windowed stateful transformation compute results across a longer time period than the StreamingContext's batch interval, by combining results from multiple batches.</p>
-<p>All windowe operations need two parameters, <b><i>window duration</i></b> and <b><i>sliding duration</i></b>, both of which must be a multiple of the StreamingContext's batch interval.</p>
+<p>All windowed operations need two parameters, <b><i>window duration</i></b> and <b><i>sliding duration</i></b>, both of which must be a multiple of the StreamingContext's batch interval.</p>
 
 <table style="width:100%">
   <tr>
